@@ -7,3 +7,6 @@ Este es mi perfil de Github. Aquí podrás encontrar cuadernos con análisis rel
 - 🌱 Estoy aprendiendo a utilizar Python y R en diversas tareas que puedan requerir mucho cuidado y exactitud en los cálculos.
 - 👯 Me gustaría ampliar mi red de contactos con personas que tengan intereses similares para complementar y desarrollar mis conocimientos.
 - 🤔 Estoy interesado en aprender y constantemente busco realizar cosas nuevas para potenciar el analisis desde diversas perspectivas.
+
+
+![image](https://user-images.githubusercontent.com/92497144/229381199-f67c42c5-38b4-419c-aca0-ddedfa3a9534.png)
