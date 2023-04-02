@@ -8,8 +8,3 @@ Este es mi perfil de Github. Aquí podrás encontrar cuadernos con análisis rel
 - 👯 Me gustaría ampliar mi red de contactos con personas que tengan intereses similares para complementar y desarrollar mis conocimientos.
 - 🤔 Estoy interesado en aprender y constantemente busco realizar cosas nuevas para potenciar el analisis desde diversas perspectivas.
 
-
-<img src="https://user-images.githubusercontent.com/92497144/229381290-7fe7548d-51f3-42de-a3ac-2599cede495e.png" width="200" height="100" align="center">
-
-![image alt="descripción de la imagen" width="400" height="300", align="left"](https://user-images.githubusercontent.com/92497144/229381290-7fe7548d-51f3-42de-a3ac-2599cede495e.png)
-
