@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Álvaro!
 
-Este es mi perfil de Github. Aquí podrás encontrar cuadernos con análisis relacionados con mi trabajo actual en la Agencia Nacional de Investigación y Desarrollo (ANID), que depende del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (MINCTCI) de Chile.
+Este es mi perfil de Github. Aquí podrás encontrar cuadernos relacionados con mi trabajo actual en la Agencia Nacional de Investigación y Desarrollo (ANID).
 
 - 🔭 Actualmente trabajo como Analista de Evaluación y Selección en ANID. 
 - 😎 Mi función es gestionar diferentes comités de evaluación -clasificados según áreas del conocimiento- para evaluar y seleccionar postulantes que contribuyan al desarrollo de la base científico-tecnológica del país, a través de la formación de Capital Humano Avanzado.
