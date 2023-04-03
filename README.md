@@ -11,7 +11,7 @@ Este es mi perfil de Github. Aquí podrás encontrar cuadernos relacionados con 
 ##### ??
 
 <p align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"width="65" height="65"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="65" height="65"/></a>
 </p>        
           
 
