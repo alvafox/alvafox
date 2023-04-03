@@ -8,3 +8,10 @@ Este es mi perfil de Github. Aquí podrás encontrar cuadernos relacionados con 
 - 👯 Me gustaría ampliar mi red de contactos con personas que tengan intereses similares para complementar y desarrollar mis conocimientos.
 - 🤔 Estoy interesado en aprender y constantemente busco realizar cosas nuevas para potenciar el analisis desde diversas perspectivas.
 
+##### ??
+
+<p align="left"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</p>          
+
+
